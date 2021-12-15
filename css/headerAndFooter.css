@@ -1,0 +1,25 @@
+body{
+    font-size: 20px;
+}
+.header{
+    background-color: lightpink;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-content{
+    background-color: lightslategray;
+    min-height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer{
+    background-color: aquamarine;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
